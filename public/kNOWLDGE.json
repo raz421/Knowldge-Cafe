@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/D7xcCtT/html-css-collage-concept.jpg",
+  
+      "title": "Mastering Riverpod in Flutter",
+      "author": "David Green",
+      "author_img": "https://i.ibb.co.com/CzCqsm3/boy1.png",
+      "posted_date": "2024-09-11",
+      "reading_time": 8 ,
+      "hashtag": ["#flutter, #riverpod, #state_management"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/bs8vmgy/programming-background-with-person-working-with-codes-computer.jpg",
+      "title": "Integrating Firebase Authentication in Flutter",
+      "author": "Emily Clarke",
+      "author_img": "https://i.ibb.co.com/vJxpdy4/boy2.jpg",
+      "posted_date": "2024-09-13",
+      "reading_time": 10,
+      "hashtag": ["#firebase, #flutter, #authentication"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/yBfGDG9/friends-learning-study-group.jpg",
+      "title": "Using Firestore with Riverpod in Flutter",
+      "author": "Mike Taylor",
+      "author_img":"https://i.ibb.co.com/6yfqSBD/girl1.jpg",
+      "posted_date": "2024-09-14",
+      "reading_time": 6 ,
+      "hashtag": ["#firebase, #flutter, #riverpod, #firestore"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/51kQmPL/contemporary-room-workplace-office-supplies-concept.jpg",
+      "title": "Understanding Navigation with GoRouter in Flutter",
+      "author": "Rachel Adams",
+      "author_img": "https://i.ibb.co.com/whppLxQ/girl2.jpg",
+      "posted_date": "2024-09-10",
+      "reading_time": 9 ,
+      "hashtag": ["#flutter, #gorouter, #navigation"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/Pmk8YNj/education-day-scene-fantasy-style-aesthetic.jpg",
+      "title": "Advanced Riverpod Techniques for Flutter",
+      "author": "Andrew Lee",
+      "author_img": "https://i.ibb.co.com/whppLxQ/girl2.jpg",
+      "posted_date": "2024-09-09",
+      "reading_time": 12,
+      "hashtag": ["#flutter ,#riverpod, #state_management"]
+    },
+    {
+      "id": 6,
+      "cover": "https://images.unsplash.com/photo-1505685296765-3a2736de412f",
+      "title": "Building a Firebase-Powered Flutter App",
+      "author": "Sophia Turner",
+      "author_img": "https://i.ibb.co.com/vJxpdy4/boy2.jpg",
+      "posted_date": "2024-09-12",
+      "reading_time": 7,
+      "hashtag": ["#firebase, #flutter, #backend"]
+    }
+  ]
+  
